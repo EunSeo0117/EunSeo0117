@@ -1,4 +1,4 @@
-### Hi there 👋
+### EunSeo0117's github 👋
 
 <!--
 **EunSeo0117/EunSeo0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
