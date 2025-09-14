@@ -24,7 +24,7 @@
 
 <h3 align="center">🏫 University 🏫</h3>
 <p align="center">
-Sookmyung Women’s University — &nbsp; <em>IT Engineering &nbsp; MAR 2020 - FEB 2025</em>
+Sookmyung Women’s University — &nbsp; <em>IT Engineering & Public Administration &nbsp; MAR 2020 - FEB 2025</em>
 </p>
 
 <br>
