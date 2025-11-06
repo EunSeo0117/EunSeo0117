@@ -12,11 +12,11 @@
 
 <h2 align="center">👨‍🚀 About 👨‍🚀</h2>
 
-<p align="center">
+<!--<p align="center">
     <a href="https://eunseo0117.github.io/blog/">
         <img src="http://img.shields.io/badge/-TechBlog-black?style=flat-square&logo=github&link=https://eunseo0117.github.io/blog/"/>
     </a>
-</p>
+</p>-->
 
 <br>
 
