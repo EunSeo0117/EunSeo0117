@@ -41,7 +41,7 @@ Sookmyung Women’s University — &nbsp; <em>IT Engineering & Public Administra
 <tr>
 <td align="center">Cling - 지식 크리에이터를 위한 온라인 교육 SaaS 플랫폼</td>
 <td align="center">백엔드 개발자</td>
-<td align="center">2025.01 ~ ing</td>
+<td align="center">2025.01 ~ 2026.02</td>
 </tr>
 <tr>
 <td align="center">프로그래밍 동아리 SOLUX</td>
