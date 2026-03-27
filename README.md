@@ -20,8 +20,6 @@
 
 <br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gmjea023)](https://solved.ac/gmjea023)
-
 <br>
 
 <h3 align="center">🏫 University 🏫</h3>
