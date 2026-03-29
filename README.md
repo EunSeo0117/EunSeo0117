@@ -20,7 +20,6 @@
 
 <br>
 
-<br>
 
 <h3 align="center">🏫 University 🏫</h3>
 <p align="center">
@@ -52,6 +51,7 @@ Sookmyung Women’s University — &nbsp; <em>IT Engineering & Public Administra
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=soft&color=0:fec700,100:2c1376&height=60&animation=fade&fontColor=ffffff&fontSize=24" />-->
+
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1B3B6F,100:0D1B2A&height=60&animation=fade&fontColor=ffffff&fontSize=24" /> 
 <!--<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:000000&height=60&animation=fade&fontColor=ffffff&fontSize=24" />-->
