@@ -36,12 +36,12 @@ Sookmyung Women’s University — &nbsp; <em>IT Engineering & Public Administra
 <th align="center">Date</th>
 </tr>
 <tr>
-<td align="center">KakaoTech BootCamp 클라우드 네이티브 과정</td>
+<td align="center">카카오테크 부트캠프 클라우드 네이티브 과정</td>
 <td align="center">클라우드 엔지니어</td>
 <td align="center">2025.09 ~ 2026.03</td>
 </tr>
 <tr>
-<td align="center">Cling - 지식 크리에이터를 위한 온라인 교육 SaaS 플랫폼</td>
+<td align="center">Creebi - 지식 크리에이터를 위한 온라인 교육 SaaS 플랫폼</td>
 <td align="center">백엔드 개발자</td>
 <td align="center">2025.01 ~ 2026.02</td>
 </tr>
